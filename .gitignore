@@ -1,0 +1,34 @@
+# Compiled class files
+*.class
+
+# Log files
+*.log
+
+src/main/webapp/images/
+
+# Package files
+*.jar
+*.war
+
+# Maven and Gradle directories
+/target/
+/.idea/
+/.settings/
+/build/
+/.gradle/
+/mvnw/
+/mvnw.cmd/
+
+# IDE-specific files
+.classpath
+.project
+.settings/
+.vscode/
+
+# OS-specific files
+.DS_Store
+Thumbs.db
+
+# Sensitive files
+*.properties
+*.env
